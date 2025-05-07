@@ -2,7 +2,7 @@
 //  SongsScreen.swift
 //  Music App WatchKit Extension
 //
-//  Created by Abu Anwar MD Abdullah on 9/2/21.
+//  Created by Ulugbek Abdimurodov on 25/04/2025.
 //
 
 import SwiftUI

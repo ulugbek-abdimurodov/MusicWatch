@@ -2,7 +2,7 @@
 //  Artist.swift
 //  Music App WatchKit Extension
 //
-//  Created by Abu Anwar MD Abdullah on 8/2/21.
+//  Created by Ulugbek Abdimurodov on 25/04/2025.
 //
 
 struct Artist: Hashable {
